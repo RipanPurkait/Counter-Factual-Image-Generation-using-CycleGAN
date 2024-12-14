@@ -175,12 +175,4 @@ You can access the testing web application [here](https://huggingface.co/spaces/
 
 ---
 
-Feel free to reach out for any questions or contributions!
 
----
-
-**Contact Information:**
-- Email: anindyamitra2018@gmail.com
-
-
-*README.md created with ❤️ by [Anindya Mitra].*
