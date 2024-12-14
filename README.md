@@ -114,7 +114,6 @@ $`  L(G, F, D_X, D_Y, C) = L_{\text{GAN}}(G, D_Y, X, Y) + L_{\text{GAN}}(F, D_X,
 ```bash
 python -m venv myenv
 myenv\Scripts\activate
-git clone https://github.com/anindyamitra2002/Counterfactual-Image-Generation-using-CycleGAN.git
 cd Counterfactual-Image-Generation-using-CycleGAN
 pip install -r requirements.txt
 ```
